@@ -7,7 +7,7 @@
 
 You can deploy your own version of Drupal running on PostgreSQL on Heroku platform in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-Drupal-PostgreSQL)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/clarifyhealth/Heroku-Drupal-PostgreSQL)
 
 Click [here](http://heroku-drupal-postgresql.herokuapp.com) to see live demo for Drupal running on PostgreSQL.
 
